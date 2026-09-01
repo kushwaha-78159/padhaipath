@@ -10,3 +10,6 @@
 - [x] Keep language-model credentials server-side and never expose them to the client
 - [x] Add TypeScript tests for plan generation, persistence, and doubt-solver behavior
 - [x] Run typecheck, tests, and visual verification before delivery
+- [x] Add a complete README.md for running PadhaiPath in GitHub Codespaces
+- [x] Create an English-language PadhaiPath demo video covering setup, dashboard, progress, persistence, and doubt solver
+- [x] Verify README commands and attach the final video with the project checkpoint
